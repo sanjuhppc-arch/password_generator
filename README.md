@@ -1,4 +1,4 @@
-# password_generator
+# password-generator
 This is a simple password generator made with python
 
 # Features
